@@ -1,0 +1,10 @@
+10:10:30 **** Incremental Build of configuration Debug for project Q4_led_r_to_l.c ****
+make -j4 all 
+arm-none-eabi-size  Q4_led_r_to_l.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1076	      4	   1564	   2644	    a54	Q4_led_r_to_l.c.elf
+Finished building: default.size.stdout
+ 
+
+10:10:30 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

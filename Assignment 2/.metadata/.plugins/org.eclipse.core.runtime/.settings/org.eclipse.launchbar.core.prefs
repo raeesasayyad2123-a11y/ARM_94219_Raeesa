@@ -1,0 +1,13 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Hello_world.c Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Q1_single_led.c Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Q2_alternate_led.c Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Q3_led_l_to_r.c Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Q4_led_r_to_l.c Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Q5_all_led_blink Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:led.c Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Hello_world.c Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Q6_all_led_tog_wo_ftn.c Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Hello_world.c\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Hello_world.c\ Debug\ (1)/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Hello_world.c\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:Hello_world.c\ Debug/activeLaunchTarget=null\:---
+org.eclipse.launchbar.core.descriptorType.default\:Hello_world.c\ Debug\ (1)/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Hello_world.c\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Hello_world.c\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:led.c\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

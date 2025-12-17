@@ -1,0 +1,10 @@
+10:12:10 **** Incremental Build of configuration Debug for project Q6_all_led_tog_wo_ftn.c ****
+make -j4 all 
+arm-none-eabi-size  Q6_all_led_tog_wo_ftn.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1008	      4	   1564	   2576	    a10	Q6_all_led_tog_wo_ftn.c.elf
+Finished building: default.size.stdout
+ 
+
+10:12:10 Build Finished. 0 errors, 0 warnings. (took 216ms)
+

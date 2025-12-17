@@ -1,0 +1,10 @@
+10:08:31 **** Incremental Build of configuration Debug for project Q1_single_led.c ****
+make -j4 all 
+arm-none-eabi-size  Q1_single_led.c.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1072	      4	   1564	   2640	    a50	Q1_single_led.c.elf
+Finished building: default.size.stdout
+ 
+
+10:08:31 Build Finished. 0 errors, 0 warnings. (took 237ms)
+
